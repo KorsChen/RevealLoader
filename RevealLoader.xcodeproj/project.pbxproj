@@ -346,8 +346,8 @@
 				MonkeyDevClearUiCacheOnInstall = NO;
 				MonkeyDevCopyOnBuild = NO;
 				MonkeyDevDeviceIP = localhost;
-				MonkeyDevDevicePassword = bbggwan;
-				MonkeyDevDevicePort = 2001;
+				MonkeyDevDevicePassword = alpine;
+				MonkeyDevDevicePort = 2222;
 				MonkeyDevInstallOnAnyBuild = YES;
 				MonkeyDevInstallOnProfiling = YES;
 				MonkeyDevkillProcessOnInstall = SpringBoard;
@@ -373,8 +373,8 @@
 				MonkeyDevClearUiCacheOnInstall = NO;
 				MonkeyDevCopyOnBuild = NO;
 				MonkeyDevDeviceIP = localhost;
-				MonkeyDevDevicePassword = bbggwan;
-				MonkeyDevDevicePort = 2001;
+				MonkeyDevDevicePassword = alpine;
+				MonkeyDevDevicePort = 2222;
 				MonkeyDevInstallOnAnyBuild = YES;
 				MonkeyDevInstallOnProfiling = YES;
 				MonkeyDevkillProcessOnInstall = SpringBoard;
